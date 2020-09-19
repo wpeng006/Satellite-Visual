@@ -3,3 +3,19 @@
     padding: 10px;
     border: 2px solid #ccc;
 }
+.setting-list {
+    margin-bottom: 8px;
+}
+.list-long {
+    margin: 5px;
+}
+.list-lat {
+    margin: 5px;
+}
+.list-alt {
+    margin: 5px;
+}
+
+.show-nearby{
+    margin: 5px;
+}

@@ -5,6 +5,9 @@
 @import "./styles/SatSetting.css";
 @import "./styles/SatelliteList.css";
 
+@import '~antd/dist/antd.css';
+
+
 
 
 body {
@@ -14,6 +17,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+  position: relative;
 }
 
 code {
